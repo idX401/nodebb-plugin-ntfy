@@ -1,5 +1,12 @@
 {
 	"plugin-name": "ntfy",
+
+	"profile.nomobile": "A mobile device is not necessary,",
+	"profile.canbrowser": "you can also subscribe to push notifications via your browser.",
+	"profile.topic_name": "Your private push notification \"topic name\" is:",
+	"profile.likepassword": "Treat this topic name like a password!",
+	"profile.ifleaked": "If the topic name is leaked, it can be used by others to receive your notifications.",
+	
 	"profile.label": "Push Notifications",
 	"profile.subscribe": "Subscribe",
 	"profile.regenerate": "Regenerate topic name",
