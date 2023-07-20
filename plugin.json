@@ -1,6 +1,6 @@
 {
 	"id": "nodebb-plugin-ntfy",
-	"url": "https://github.com/NodeBB/nodebb-plugin-ntfy",
+	"url": "https://github.com/idX401/nodebb-plugin-ntfy",
 	"library": "./library.js",
 	"hooks": [
 		{ "hook": "static:app.load", "method": "init" },
